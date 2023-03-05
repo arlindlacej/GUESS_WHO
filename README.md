@@ -1,5 +1,4 @@
 # GUESS_WHO
-# GUESS WHO
 
 Create a Python program to simulate a (simplified) game of Guess Who...
 
